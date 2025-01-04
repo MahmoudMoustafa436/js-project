@@ -14,7 +14,7 @@ let contact = document.createElement("li");
  let serviceText=document.createTextNode("service");
  let contactText=document.createTextNode("contact");
  
-// add text 
+// add text nav header
 logo.append(logoText);
 home.append(homeText);
 adout.append(adoutText);
